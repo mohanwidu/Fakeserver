@@ -5,18 +5,18 @@
       "cityname": "Pondichery",
       "PlacesToVisit": [
         {
-          "place": "PPlace1",
-          "hotel": "PHotel1",
+          "place": "PondyPlace1",
+          "hotel": "PondyHotel1",
           "booked": false
         },
         {
-          "place": "PPlace2",
-          "hotel": "PHotel2",
+          "place": "PondyPlace2",
+          "hotel": "PondyHotel2",
           "booked": true
         },
         {
-          "place": "PPlace3",
-          "hotel": "PHotel3",
+          "place": "PondyPlace3",
+          "hotel": "PondyHotel3",
           "booked": false
         }
       ]
@@ -26,18 +26,18 @@
       "cityname": "Munnar",
       "PlacesToVisit": [
         {
-          "place": "MPlace1",
-          "hotel": "MHotel1",
+          "place": "MunnarPlace1",
+          "hotel": "MunnarHotel1",
           "booked": false
         },
         {
-          "place": "MPlace2",
-          "hotel": "MHotel2",
+          "place": "MunnarPlace2",
+          "hotel": "MunnarHotel2",
           "booked": false
         },
         {
-          "place": "MPlace3",
-          "hotel": "MHotel3",
+          "place": "MunnarPlace3",
+          "hotel": "MunnarHotel3",
           "booked": false
         }
       ]
@@ -47,18 +47,18 @@
       "cityname": "Kodaikanal",
       "PlacesToVisit": [
         {
-          "place": "KPlace1",
-          "hotel": "KHotel1",
+          "place": "KodaiPlace1",
+          "hotel": "KodaiHotel1",
           "booked": false
         },
         {
-          "place": "KPlace2",
-          "hotel": "KHotel2",
+          "place": "KodaiPlace2",
+          "hotel": "KodaiHotel2",
           "booked": false
         },
         {
-          "place": "KPlace3",
-          "hotel": "KHotel3",
+          "place": "KodaiPlace3",
+          "hotel": "KodaiHotel3",
           "booked": false
         }
       ]
@@ -68,18 +68,18 @@
       "cityname": "Yercaud",
       "PlacesToVisit": [
         {
-          "place": "YPlace1",
-          "hotel": "YHotel1",
+          "place": "YercaudPlace1",
+          "hotel": "YercaudHotel1",
           "booked": false
         },
         {
-          "place": "YPlace2",
-          "hotel": "YHotel2",
+          "place": "YercaudPlace2",
+          "hotel": "YercaudHotel2",
           "booked": false
         },
         {
-          "place": "YPlace3",
-          "hotel": "YHotel3",
+          "place": "YercaudPlace3",
+          "hotel": "YercaudHotel3",
           "booked": true
         }
       ]
